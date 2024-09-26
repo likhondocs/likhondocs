@@ -1,66 +1,48 @@
-# Likhon Sheikh (@likhondocs)
-
-<div align="center">
-
-</div>
-
-## About Me
-- 🌱 Currently learning: Advanced web technologies and cloud computing
+Here is the full Markdown code for the formatted content:
 
 
-<div id="stats" align="center" style="display: flex; flex-direction: column;">
-    <a style="display: flex; align-items: center;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhondocs&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
-    </a>
-    <a style="display: flex;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=likhondocs&theme=dark" style="margin-right: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazavod777&theme=dark">
-    </a>
-</div>
+# About Me
 
-<div id="donation" align="center">
-    <h1>Donation:</h1>
-    <table>
-        <tbody>
-            <tr>
-                <td align="center"><b>EVM Chains</b></td>
-                <td align="center"><img style="vertical-align: middle;" src="https://img.shields.io/badge/ethereum-grey?logo=ethereum&logoColor=white"></td>
-                <td align="center"><b></b></td>
-            </tr>
-            <tr>
-                <td align="center"><b>SOL</b></td>
-                <td align="center"><img style="vertical-align: middle;" src="https://img.shields.io/badge/solana-grey?logo=solana&logoColor=white"></td>
-                <td align="center"><b></b></td>
-            </tr>
-            <tr>
-                <td align="center"><b>TRX</b></td>
-                <td align="center"><img style="vertical-align: middle;" src="https://img.shields.io/badge/tron-grey?logo=tron&logoColor=white"></td>
-                <td align="center"><b></b></td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+🌱 Currently learning: Advanced web technologies and cloud computing
 
+## GitHub Profile Summary
 
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhondocs&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhondocs&theme=dark)
+
+## Repositories and Statistics
+
+[![Repositories per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=likhondocs&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=likhondocs&theme=dark)
+[![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=likhondocs&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=likhondocs&theme=dark)
+
+## Donation
+
+| **Chain** | **Logo** | **Address** |
+| --- | --- | --- |
+| EVM Chains |![Ethereum](https://img.shields.io/badge/ethereum-grey?logo=ethereum&logoColor=white) | 0x3A06322e9F1124F6B2de8F343D4FDce4D1009869 |
+| SOL |![Solana](https://img.shields.io/badge/solana-grey?logo=solana&logoColor=white) |  |
+| TRX |![Tron](https://img.shields.io/badge/tron-grey?logo=tron&logoColor=white) |  |
+
+## Blockchain Mastery Roadmap
 
 ```mermaid
-mindmap
-    Blockchain Mastery
-      Smart Contract Development
-      DeFi Innovations
-      Layer 2 Solutions
-      Cross-chain Interoperability
-      Penetration Testing
-      Blockchain Security Audits
-      Zero-Knowledge Proofs
+graph LR
+    A[Blockchain Mastery] -->|Advanced Smart Contract Development|> B[Smart Contract Security]
+    A -->|DeFi Innovations|> C[Decentralized Finance]
+    A -->|Layer 2 Solutions|> D[Scalability Solutions]
+    A -->|Cross-chain Interoperability|> E[Interoperability Protocols]
+    A -->|Penetration Testing|> F[Blockchain Security Audits]
+    A -->|Zero-Knowledge Proofs|> G[Private Transactions]
+    B -->|Auditing and Testing|> H[Smart Contract Auditing]
+    C -->|Liquidity Provision|> I[Liquidity Pools]
+    D -->|Optimization Techniques|> J[Optimized Smart Contracts]
+    E -->|Interoperability Standards|> K[Cross-chain Communication]
+    F -->|Security Best Practices|> L[Secure Smart Contract Development]
+    G -->|Private Transaction Implementation|> M[Private Blockchain Development]
 ```
 
-
-
-<div align="center">
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-likhondocs%40xmail.ru-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:likhondocs@xmail.ru)
 [![Website](https://img.shields.io/badge/Website-likhondocs.wiki-green?style=flat-square&logo=wordpress&logoColor=white)](https://likhondocs.wiki)
 
-</div>
-
+You can copy and paste this code into a Markdown editor or a GitHub README file.
