@@ -1,9 +1,6 @@
 # 👨‍💻 Likhon Sheikh (@likhondocs)
 
 <div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/likhondocs?label=Follow&style=social)](https://github.com/likhondocs)
-
 </div>
 
 ## 🚀 About Me
@@ -26,8 +23,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhondocs&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=likhondocs&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" /> [![GitHub followers](https://img.shields.io/github/followers/likhondocs?label=Follow&style=social)](https://github.com/likhondocs)</div>
+
 
 ## 📫 Contact
 ```
