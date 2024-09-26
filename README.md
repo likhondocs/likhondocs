@@ -9,22 +9,6 @@
 ## About Me
 - 🌱 Currently learning: Advanced web technologies and cloud computing
 
-## Tech Constellation
-
-
-```mermaid
-mindmap
-    Blockchain Mastery
-      Smart Contract Development
-      DeFi Innovations
-      Layer 2 Solutions
-      Cross-chain Interoperability
-      Penetration Testing
-      Blockchain Security Audits
-      Zero-Knowledge Proofs
-```
-
-## Skills Meter
 
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
     <h1>Stats:</h1>
@@ -59,6 +43,21 @@ mindmap
         </tbody>
     </table>
 </div>
+
+
+
+```mermaid
+mindmap
+    Blockchain Mastery
+      Smart Contract Development
+      DeFi Innovations
+      Layer 2 Solutions
+      Cross-chain Interoperability
+      Penetration Testing
+      Blockchain Security Audits
+      Zero-Knowledge Proofs
+```
+
 
 
 <div align="center">
