@@ -1,4 +1,4 @@
-# Likhon Sheikh (@likhondocs)
+# 👨‍💻 Likhon Sheikh (@likhondocs)
 
 <div align="center">
 
@@ -6,57 +6,55 @@
 
 </div>
 
-## About Me
+## 🚀 About Me
 - 🌱 Currently learning: Advanced web technologies and cloud computing
 
-## Skills Radar
+## 🛠️ Tech Stack
 
 <div align="center">
-<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .skill { font: bold 14px sans-serif; }
-    .chart-bg { fill: none; stroke: #ddd; }
-    .chart-line { fill: none; stroke: url(#gradient); stroke-width: 2; }
-    @keyframes pulse {
-      0% { stroke-width: 2; }
-      50% { stroke-width: 4; }
-      100% { stroke-width: 2; }
-    }
-    .chart-line {
-      animation: pulse 2s ease-in-out infinite;
-    }
-  </style>
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff9a9e" />
-      <stop offset="50%" style="stop-color:#fad0c4" />
-      <stop offset="100%" style="stop-color:#ffecd2" />
-    </linearGradient>
-  </defs>
-  <g transform="translate(200,200)">
-    <circle class="chart-bg" r="180"/>
-    <circle class="chart-bg" r="135"/>
-    <circle class="chart-bg" r="90"/>
-    <circle class="chart-bg" r="45"/>
-    <path class="chart-line" d="M0,-180 L156,-90 L156,90 L0,180 L-156,90 L-156,-90 Z" />
-    <text class="skill" x="0" y="-190" text-anchor="middle">JavaScript</text>
-    <text class="skill" x="170" y="-95" text-anchor="start">React</text>
-    <text class="skill" x="170" y="105" text-anchor="start">Node.js</text>
-    <text class="skill" x="0" y="190" text-anchor="middle">Python</text>
-    <text class="skill" x="-170" y="105" text-anchor="end">Git</text>
-    <text class="skill" x="-170" y="-95" text-anchor="end">VS Code</text>
-  </g>
-</svg>
+
+```
+    JavaScript
+        ↗️     ↖️
+    React   Node.js
+   ↗️             ↖️
+Python           Git
+   ↘️             ↙️
+    VS Code   APIs
+        ↘️     ↙️
+      DevOps
+```
+
 </div>
 
-## GitHub Stats
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=likhondocs&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-## Contact
-- 📧 Email: likhondocs@xmail.ru
+## 📫 Contact
+```
+ ___________________
+< likhondocs@xmail.ru >
+ -------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 - 🌐 Website: [https://likhondocs.wiki](https://likhondocs.wiki)
 
 <div align="center">
