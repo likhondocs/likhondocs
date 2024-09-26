@@ -3,7 +3,7 @@
 
 🌱 Currently learning: Advanced web technologies and cloud computing
 
-## GitHub Profile Summary
+## Profile Summary
 
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhondocs&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhondocs&theme=dark)
 [![Repositories per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=likhondocs&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=likhondocs&theme=dark)
