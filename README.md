@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/likhondocs?label=Follow&style=social)](https://github.com/likhondocs)
-
 </div>
 
 ## About Me
