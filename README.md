@@ -9,21 +9,6 @@
 ## 🚀 About Me
 - 🌱 Currently learning: Advanced web technologies and cloud computing
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-```
-    JavaScript
-        ↗️     ↖️
-    React   Node.js
-   ↗️             ↖️
-Python           Git
-   ↘️             ↙️
-    VS Code   APIs
-        ↘️     ↙️
-      DevOps
-```
 
 </div>
 
