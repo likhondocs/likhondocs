@@ -11,37 +11,55 @@
 
 ## Tech Constellation
 
-```
-       JavaScript
-          ⭐
-     ✨         ✨
-  React           Node.js
-✨                   ✨
-  
-Python           Git
-     ✨         ✨
-        VS Code
-          ⭐
+
+```mermaid
+mindmap
+    Blockchain Mastery
+      Smart Contract Development
+      DeFi Innovations
+      Layer 2 Solutions
+      Cross-chain Interoperability
+      Penetration Testing
+      Blockchain Security Audits
+      Zero-Knowledge Proofs
 ```
 
 ## Skills Meter
 
-```
-JavaScript  [█████████░] 90%
-React       [████████░░] 80%
-Node.js     [███████░░░] 70%
-Python      [██████░░░░] 60%
-Git         [████████░░] 80%
-VS Code     [█████████░] 90%
-```
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhondocs&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+<div id="stats" align="center" style="display: flex; flex-direction: column;">
+    <h1>Stats:</h1>
+    <a style="display: flex; align-items: center;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhondocs&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
+    </a>
+    <a style="display: flex;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=likhondocs&theme=dark" style="margin-right: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazavod777&theme=dark">
+    </a>
 </div>
 
-## Let's Connect!
+<div id="donation" align="center">
+    <h1>Donation:</h1>
+    <table>
+        <tbody>
+            <tr>
+                <td align="center"><b>EVM Chains</b></td>
+                <td align="center"><img style="vertical-align: middle;" src="https://img.shields.io/badge/ethereum-grey?logo=ethereum&logoColor=white"></td>
+                <td align="center"><b></b></td>
+            </tr>
+            <tr>
+                <td align="center"><b>SOL</b></td>
+                <td align="center"><img style="vertical-align: middle;" src="https://img.shields.io/badge/solana-grey?logo=solana&logoColor=white"></td>
+                <td align="center"><b></b></td>
+            </tr>
+            <tr>
+                <td align="center"><b>TRX</b></td>
+                <td align="center"><img style="vertical-align: middle;" src="https://img.shields.io/badge/tron-grey?logo=tron&logoColor=white"></td>
+                <td align="center"><b></b></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 
 <div align="center">
 
@@ -50,17 +68,3 @@ VS Code     [█████████░] 90%
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=likhondocs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-```
- _     _ _    _                 
-| |   (_) |  | |                
-| |    _| | _| |__   ___  _ __  
-| |   | | |/ / '_ \ / _ \| '_ \ 
-| |___| |   <| | | | (_) | | | |
-\_____/_|_|\_\_| |_|\___/|_| |_|
-```
