@@ -14,26 +14,6 @@
 | **Chain** | **Logo** | **Address** |
 | --- | --- | --- |
 | EVM Chains |![Ethereum](https://img.shields.io/badge/ethereum-grey?logo=ethereum&logoColor=white) | 0x3A06322e9F1124F6B2de8F343D4FDce4D1009869 |
-| SOL |![Solana](https://img.shields.io/badge/solana-grey?logo=solana&logoColor=white) |  |
-| TRX |![Tron](https://img.shields.io/badge/tron-grey?logo=tron&logoColor=white) |  |
-
-## Blockchain Mastery Roadmap
-
-```mermaid
-    graph LR
-    A[Blockchain Mastery] -->|Advanced Smart Contract Development|> B[Smart Contract Security]
-    A -->|DeFi Innovations|> C[Decentralized Finance]
-    A -->|Layer 2 Solutions|> D[Scalability Solutions]
-    A -->|Cross-chain Interoperability|> E[Interoperability Protocols]
-    A -->|Penetration Testing|> F[Blockchain Security Audits]
-    A -->|Zero-Knowledge Proofs|> G[Private Transactions]
-    B -->|Auditing and Testing|> H[Smart Contract Auditing]
-    C -->|Liquidity Provision|> I[Liquidity Pools]
-    D -->|Optimization Techniques|> J[Optimized Smart Contracts]
-    E -->|Interoperability Standards|> K[Cross-chain Communication]
-    F -->|Security Best Practices|> L[Secure Smart Contract Development]
-    G -->|Private Transaction Implementation|> M[Private Blockchain Development]
-```
 
 ## Contact
 
