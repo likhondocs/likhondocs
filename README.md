@@ -10,12 +10,7 @@
 
 ## About Me
 
-Full Stack Developer | Open Source Enthusiast | Continuous Learner
-
 - 🌱 Currently learning: Advanced web technologies and cloud computing
-- 💼 Working on: Scalable and efficient web applications
-- 💞️ Looking to collaborate on: Innovative open-source projects
-- 🎯 Goals: Contribute more to open source and build impactful solutions
 
 ## Tech Stack
 
