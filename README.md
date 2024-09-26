@@ -1,44 +1,66 @@
-# 👨‍💻 Likhon Sheikh (@likhondocs)
+# Likhon Sheikh (@likhondocs)
 
 <div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/likhondocs?label=Follow&style=social)](https://github.com/likhondocs)
+
 </div>
 
-## 🚀 About Me
+## About Me
 - 🌱 Currently learning: Advanced web technologies and cloud computing
 
+## Tech Constellation
 
+```
+       JavaScript
+          ⭐
+     ✨         ✨
+  React           Node.js
+✨                   ✨
+  
+Python           Git
+     ✨         ✨
+        VS Code
+          ⭐
+```
+
+## Skills Meter
+
+```
+JavaScript  [█████████░] 90%
+React       [████████░░] 80%
+Node.js     [███████░░░] 70%
+Python      [██████░░░░] 60%
+Git         [████████░░] 80%
+VS Code     [█████████░] 90%
+```
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=likhondocs&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
 </div>
+
+## Let's Connect!
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-likhondocs%40xmail.ru-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:likhondocs@xmail.ru)
+[![Website](https://img.shields.io/badge/Website-likhondocs.wiki-green?style=flat-square&logo=wordpress&logoColor=white)](https://likhondocs.wiki)
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhondocs&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" /> [![GitHub followers](https://img.shields.io/github/followers/likhondocs?label=Follow&style=social)](https://github.com/likhondocs)</div>
-
-
-## 📫 Contact
-```
- ___________________
-< likhondocs@xmail.ru >
- -------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
-- 🌐 Website: [https://likhondocs.wiki](https://likhondocs.wiki)
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=likhondocs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
+
+```
+ _     _ _    _                 
+| |   (_) |  | |                
+| |    _| | _| |__   ___  _ __  
+| |   | | |/ / '_ \ / _ \| '_ \ 
+| |___| |   <| | | | (_) | | | |
+\_____/_|_|\_\_| |_|\___/|_| |_|
+```
