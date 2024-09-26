@@ -6,9 +6,6 @@
 ## GitHub Profile Summary
 
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhondocs&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhondocs&theme=dark)
-
-## Repositories and Statistics
-
 [![Repositories per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=likhondocs&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=likhondocs&theme=dark)
 [![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=likhondocs&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=likhondocs&theme=dark)
 
@@ -23,7 +20,7 @@
 ## Blockchain Mastery Roadmap
 
 ```mermaid
-graph LR
+    graph LR
     A[Blockchain Mastery] -->|Advanced Smart Contract Development|> B[Smart Contract Security]
     A -->|DeFi Innovations|> C[Decentralized Finance]
     A -->|Layer 2 Solutions|> D[Scalability Solutions]
