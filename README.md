@@ -4,7 +4,6 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/likhondocs?label=Follow&style=social)](https://github.com/likhondocs)
 [![Twitter Follow](https://img.shields.io/twitter/follow/likhondocs?label=Follow&style=social)](https://twitter.com/likhondocs)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/likhondocs/)](https://www.linkedin.com/in/likhondocs/)
 
 </div>
 
