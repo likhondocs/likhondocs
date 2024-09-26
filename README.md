@@ -1,17 +1,36 @@
 # Likhon Sheikh (@likhondocs)
 
 <div align="center">
-  
+
 [![GitHub followers](https://img.shields.io/github/followers/likhondocs?label=Follow&style=social)](https://github.com/likhondocs)
-[![Twitter Follow](https://img.shields.io/twitter/follow/likhondocs?label=Follow&style=social)](https://twitter.com/likhondocs)
 
 </div>
 
 ## About Me
-
 - 🌱 Currently learning: Advanced web technologies and cloud computing
 
 ## Tech Stack
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[Tech Stack] --> B[Frontend]
+    A --> C[Backend]
+    A --> D[Tools]
+    B --> E[JavaScript]
+    B --> F[React]
+    C --> G[Node.js]
+    C --> H[Python]
+    D --> I[Git]
+    D --> J[VS Code]
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style B fill:#bbf,stroke:#f66,stroke-width:2px
+    style C fill:#bbf,stroke:#f66,stroke-width:2px
+    style D fill:#bbf,stroke:#f66,stroke-width:2px
+```
+
+</div>
 
 <div align="center">
 
@@ -31,7 +50,6 @@
 </div>
 
 ## Contact
-
 - 📧 Email: likhondocs@xmail.ru
 - 🌐 Website: [https://likhondocs.wiki](https://likhondocs.wiki)
 
