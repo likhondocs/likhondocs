@@ -1,5 +1,3 @@
-Here is the full Markdown code for the formatted content:
-
 
 # About Me
 
@@ -45,4 +43,3 @@ graph LR
 [![Email](https://img.shields.io/badge/Email-likhondocs%40xmail.ru-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:likhondocs@xmail.ru)
 [![Website](https://img.shields.io/badge/Website-likhondocs.wiki-green?style=flat-square&logo=wordpress&logoColor=white)](https://likhondocs.wiki)
 
-You can copy and paste this code into a Markdown editor or a GitHub README file.
