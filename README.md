@@ -1,4 +1,3 @@
-
 # About Me
 
 🌱 Currently learning: Advanced web technologies and cloud computing
@@ -13,8 +12,12 @@
 
 | **Chain** | **Logo** | **Address** |
 | --- | --- | --- |
-| EVM Chains |![Ethereum](https://img.shields.io/badge/ethereum-grey?logo=ethereum&logoColor=white) | 0xdc01884384Da59380EB6bC1c95c94892B62e4E86 |
+| EVM Chains | ![Ethereum](https://img.shields.io/badge/ethereum-grey?logo=ethereum&logoColor=white) | 0xdc01884384Da59380EB6bC1c95c94892B62e4E86 |
 
-[![Email](https://img.shields.io/badge/Email-likhondocs%40xmail.ru-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:likhondocs@xmail.ru)
-[![Website](https://img.shields.io/badge/Website-likhondocs.wiki-green?style=flat-square&logo=wordpress&logoColor=white)](https://likhondocs.wiki)
+## Connect with me
 
+[![Email](https://img.shields.io/badge/Email-author%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:author@gmail.com)
+[![Website](https://img.shields.io/badge/Website-likhondocs.wiki-green?style=flat-square&logo=wordpress&logoColor=white)](https://likhonsheikh.com)
+[![Telegram RexxLounge](https://img.shields.io/badge/Telegram-RexxLounge-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/RexxLounge)
+[![Telegram RexxCheat](https://img.shields.io/badge/Telegram-RexxCheat-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/RexxCheat)
+[![Twitter](https://img.shields.io/badge/Twitter-likhondoca-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/likhondoca)
