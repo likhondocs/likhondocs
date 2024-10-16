@@ -20,4 +20,4 @@
 [![Website](https://img.shields.io/badge/Website-likhondocs.wiki-green?style=flat-square&logo=wordpress&logoColor=white)](https://likhonsheikh.com)
 [![Telegram RexxLounge](https://img.shields.io/badge/Telegram-RexxLounge-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/RexxLounge)
 [![Telegram RexxCheat](https://img.shields.io/badge/Telegram-RexxCheat-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/RexxCheat)
-[![Twitter](https://img.shields.io/badge/Twitter-likhondoca-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/likhondoca)
+[![Twitter](https://img.shields.io/badge/Twitter-likhondocs-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/likhondocs)
